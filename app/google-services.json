@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830931094579",
+    "project_id": "foodator-99739",
+    "storage_bucket": "foodator-99739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830931094579:android:bd773c37f36872c432a746",
+        "android_client_info": {
+          "package_name": "uo.nexton.foodator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830931094579-mikgllaci2abfn2c54m5ccdgg7atu4vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIYO7yFexRvS3IP6WHdb8XmOPb_zYHCnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830931094579-mikgllaci2abfn2c54m5ccdgg7atu4vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
